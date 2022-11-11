@@ -2,5 +2,18 @@ body {
     background-color: dimgrey;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
+}
+
+.header--main {
+    font-weight: normal;
+    font-size: 50px;
+    color: black;
+}
+
+.header--small {
+    font-weight: small;
+    font-size: 20px;
+    color: black;
+    text-shadow: 50px;
+
 }
