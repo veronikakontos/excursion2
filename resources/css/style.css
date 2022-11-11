@@ -13,7 +13,7 @@ body {
 .header--small {
     font-weight: small;
     font-size: 20px;
-    color: black;
+    color: rgb(122, 203, 225);
     text-shadow: 50px;
 
 }
